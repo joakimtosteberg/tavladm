@@ -1,0 +1,33 @@
+{
+  "key": "<API_KEY_HERE>",
+  "events": [
+    {
+      "id": 30119,
+      "subids": [31967,31968,31969,31970,31971,31973,31974,31975,31976,31977],
+      "startlist_replacements": [
+        {
+          "search": "Sensommarspringet, medel ",
+          "replace": ""
+        },
+        {
+          "search": "anmälan start ",
+          "replace": ""
+        }
+      ]
+    },
+    {
+      "id": 30118,
+      "subids": [31957,31958,31959,31960,31961,31962,31963,31964,31965,31966],
+      "startlist_replacements": [
+        {
+          "search": "Sensommarspringet, lång ",
+          "replace": ""
+        },
+        {
+          "search": "anmälan start ",
+          "replace": ""
+        }
+      ]
+    }
+  ]
+}

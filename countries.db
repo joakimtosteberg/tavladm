@@ -1,0 +1,234 @@
+4	AFG	Afghanistan
+8	ALB	Albania
+10	ATA	Antarctica
+12	ALG	Algeria
+16	ASA	American Samoa
+20	AND	Andorra
+24	ANG	Angola
+28	ANT	Antigua and Barbuda
+31	AZE	Azerbaijan
+32	ARG	Argentina
+36	AUS	Australia
+40	AUT	Austria
+44	BAH	Bahamas
+48	BRN	Bahrain
+50	BAN	Bangladesh
+51	ARM	Armenia
+52	BAR	Barbados
+56	BEL	Belgium
+60	BER	Bermuda
+64	BHU	Bhutan
+68	BOL	Bolivia, Plurinational State of
+70	BIH	Bosnia and Herzegovina
+72	BOT	Botswana
+74	BVT	Bouvet Island
+76	BRA	Brazil
+84	BIZ	Belize
+86	IOT	British Indian Ocean Territory
+90	SOL	Solomon Islands
+92	IVB	Virgin Islands, British
+96	BRU	Brunei Darussalam
+100	BUL	Bulgaria
+104	MYA	Myanmar
+108	BDI	Burundi
+112	BLR	Belarus
+116	CAM	Cambodia
+120	CMR	Cameroon
+124	CAN	Canada
+132	CPV	Cabo Verde
+136	CAY	Cayman Islands
+140	CAF	Central African Republic
+144	SRI	Sri Lanka
+148	CHA	Chad
+152	CHI	Chile
+156	CHN	China
+158	TPE	Taiwan, Province of China
+162	CXR	Christmas Island
+166	CCK	Cocos (Keeling) Islands
+170	COL	Colombia
+174	COM	Comoros
+175	MYT	Mayotte
+178	CGO	Congo
+184	COK	Cook Islands
+188	CRC	Costa Rica
+191	CRO	Croatia
+192	CUB	Cuba
+196	CYP	Cyprus
+203	CZE	Czechia
+204	BEN	Benin
+208	DEN	Denmark
+212	DMA	Dominica
+214	DOM	Dominican Republic
+218	ECU	Ecuador
+222	ESA	El Salvador
+226	GEQ	Equatorial Guinea
+232	ERI	Eritrea
+233	EST	Estonia
+234	FRO	Faroe Islands
+238	FLK	Falkland Islands (Malvinas)
+242	FIJ	Fiji
+246	FIN	Finland
+250	FRA	France
+254	GUF	French Guiana
+258	PYF	French Polynesia
+260	ATF	French Southern Territories
+262	DJI	Djibouti
+266	GAB	Gabon
+268	GEO	Georgia
+270	GAM	Gambia
+276	GER	Germany
+288	GHA	Ghana
+292	GIB	Gibraltar
+296	KIR	Kiribati
+300	GRE	Greece
+304	GRL	Greenland
+308	GRN	Grenada
+312	GLP	Guadeloupe
+316	GUM	Guam
+320	GUA	Guatemala
+324	GUI	Guinea
+328	GUY	Guyana
+332	HAI	Haiti
+334	HMD	Heard Island and McDonald Islands
+336	VAT	Holy See
+340	HON	Honduras
+344	HKG	Hong Kong
+348	HUN	Hungary
+352	ISL	Iceland
+356	IND	India
+360	INA	Indonesia
+364	IRI	Iran, Islamic Republic of
+368	IRQ	Iraq
+372	IRL	Ireland
+376	ISR	Israel
+380	ITA	Italy
+384	CIV	Côte d'Ivoire
+388	JAM	Jamaica
+392	JPN	Japan
+398	KAZ	Kazakhstan
+400	JOR	Jordan
+404	KEN	Kenya
+408	PRK	Korea, Democratic People's Republic of
+410	KOR	Korea, Republic of
+414	KUW	Kuwait
+417	KGZ	Kyrgyzstan
+418	LAO	Lao People's Democratic Republic
+422	LIB	Lebanon
+426	LES	Lesotho
+428	LAT	Latvia
+430	LBR	Liberia
+434	LBY	Libya
+438	LIE	Liechtenstein
+440	LTU	Lithuania
+442	LUX	Luxembourg
+446	MAC	Macao
+450	MAD	Madagascar
+454	MAW	Malawi
+458	MAS	Malaysia
+462	MDV	Maldives
+466	MLI	Mali
+470	MLT	Malta
+474	MTQ	Martinique
+478	MTN	Mauritania
+480	MRI	Mauritius
+484	MEX	Mexico
+492	MON	Monaco
+496	MGL	Mongolia
+498	MDA	Moldova, Republic of
+499	MNE	Montenegro
+500	MSR	Montserrat
+504	MAR	Morocco
+508	MOZ	Mozambique
+512	OMA	Oman
+516	NAM	Namibia
+520	NRU	Nauru
+524	NEP	Nepal
+528	NED	Netherlands
+533	ARU	Aruba
+540	NCL	New Caledonia
+548	VAN	Vanuatu
+554	NZL	New Zealand
+558	NCA	Nicaragua
+562	NIG	Niger
+566	NGR	Nigeria
+570	NIU	Niue
+574	NFK	Norfolk Island
+578	NOR	Norway
+580	MNP	Northern Mariana Islands
+581	UMI	United States Minor Outlying Islands
+583	FSM	Micronesia, Federated States of
+584	MHL	Marshall Islands
+585	PLW	Palau
+586	PAK	Pakistan
+591	PAN	Panama
+598	PNG	Papua New Guinea
+600	PAR	Paraguay
+604	PER	Peru
+608	PHI	Philippines
+612	PCN	Pitcairn
+616	POL	Poland
+620	POR	Portugal
+624	GBS	Guinea-Bissau
+626	TLS	Timor-Leste
+630	PUR	Puerto Rico
+634	QAT	Qatar
+638	REU	Réunion
+642	ROU	Romania
+643	RUS	Russian Federation
+646	RWA	Rwanda
+654	SHN	Saint Helena, Ascension and Tristan da Cunha
+659	SKN	Saint Kitts and Nevis
+660	AIA	Anguilla
+662	LCA	Saint Lucia
+666	SPM	Saint Pierre and Miquelon
+670	VIN	Saint Vincent and the Grenadines
+674	SMR	San Marino
+678	STP	Sao Tome and Principe
+682	KSA	Saudi Arabia
+686	SEN	Senegal
+688	SRB	Serbia
+690	SEY	Seychelles
+694	SLE	Sierra Leone
+702	SIN	Singapore
+703	SVK	Slovakia
+704	VIE	Viet Nam
+705	SLO	Slovenia
+706	SOM	Somalia
+710	RSA	South Africa
+716	ZIM	Zimbabwe
+724	ESP	Spain
+732	ESH	Western Sahara
+740	SUR	Suriname
+744	SJM	Svalbard and Jan Mayen
+748	SWZ	Swaziland
+752	SWE	Sweden
+756	SUI	Switzerland
+760	SYR	Syrian Arab Republic
+762	TJK	Tajikistan
+764	THA	Thailand
+768	TOG	Togo
+772	TKL	Tokelau
+776	TGA	Tonga
+780	TRI	Trinidad and Tobago
+784	UAE	United Arab Emirates
+788	TUN	Tunisia
+792	TUR	Turkey
+795	TKM	Turkmenistan
+796	TCA	Turks and Caicos Islands
+798	TUV	Tuvalu
+800	UGA	Uganda
+804	UKR	Ukraine
+807	MKD	Macedonia, the former Yugoslav Republic of
+818	EGY	Egypt
+826	GBR	United Kingdom of Great Britain and Northern Ireland
+834	TAN	Tanzania, United Republic of
+840	USA	United States of America
+850	ISV	Virgin Islands, U.S.
+854	BUR	Burkina Faso
+858	URU	Uruguay
+860	UZB	Uzbekistan
+862	VEN	Venezuela, Bolivarian Republic of
+876	WLF	Wallis and Futuna
+882	SAM	Samoa
+887	YEM	Yemen
+894	ZAM	Zambia
