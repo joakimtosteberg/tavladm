@@ -17,3 +17,6 @@ Ett par saker som inte hanteras fullt ut eller kräver handpåläggning:
 
 * Hyrbrickor: Eftersom startlistan skapas utifrån information från eventor kommer man inte få med nummer på hyrbrickor efter tilldelande i OLA här, då det inte är någon större mängd hyrbrickor så löstes detta igenom att vi förhand skrev in det i HTML filerna.
 * Ändringar efter import till OLA: Liknande problem som för hyrbricksnummer, då listorna genereras utifrån eventor så får man inte med eventuella ändringar som görs i OLA så som klassbyte eller liknande som kommer efter man har gjort importen. Här får man antingen återigen manuellt redigera HTML-koden om man vill ha med den uppdaterade informationen i startlistorna, alternativt acceptera att startlistorna inte har med sådana ändringar.
+
+
+En punkt att tänka på är också hanterandet av etappdatum/nolltid om man kör med startgrupper utspridda över flera dagar. Det som vi testat är att ha samma etappdatum inställt i OLA alla dagarna, effekten blir då att det ser ut som alla löpare har sprungit på samma dag, och än så länge har vi inte sett någon negativ effekt av detta. Det borde dock gå att varje ny dag ändra etappdatum till den nya dagens datum innan första löpare kommer och då få löpare på rätt dag, dock ej testat om detta faktiskt fungerar bra i praktiken eller om det medför några oväntade problem.
