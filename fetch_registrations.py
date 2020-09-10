@@ -155,7 +155,13 @@ for eventConfig in config['events']:
         ET.SubElement(personName, 'Family').text = entry.find('Competitor/Person/PersonName/Family').text
         ET.SubElement(personName, 'Given').text = entry.find('Competitor/Person/PersonName/Given').text
         ET.SubElement(person, 'BirthDate').text = entry.find('Competitor/Person/BirthDate/Date').text
-        countryObj = countryCodes[entry.find('Competitor/Person/Nationality/CountryId').attrib['value']]
+        nationality = entry.find('Competitor/Person/Nationality/CountryId')
+        if nationality is None:
+            # Assume sweden if no nationality is set
+            countryObj = countryCodes['752']
+        else:
+            countryObj = countryCodes[nationality.attrib['value']]
+
         nationality = ET.SubElement(person, 'Nationality')
         nationality.set('code', countryObj['alpha3'])
         nationality.text = countryObj['name']
