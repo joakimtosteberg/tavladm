@@ -183,7 +183,11 @@ for eventConfig in config['events']:
             ET.SubElement(organisation, 'ShortName').text = entry.find("Competitor/Organisation/ShortName").text
             ET.SubElement(organisation, 'MediaName').text = entry.find("Competitor/Organisation/MediaName").text
             ET.SubElement(organisation, 'ParentOrganisationId').text = entry.find("Competitor/Organisation/ParentOrganisation/OrganisationId").text
-            countryObj = countryCodes[entry.find('Competitor/Organisation/CountryId').attrib['value']]
+            countryObj = None
+            if entry.find('Competitor/Organisation/CountryId'):
+                countryObj = countryCodes[entry.find('Competitor/Organisation/CountryId').attrib['value']]
+            else:
+                countryObj = countryCodes[entry.find('Competitor/Organisation/Country/CountryId').attrib['value']]
             organisationCountry = ET.SubElement(organisation, 'Country')
             organisationCountry.set('code', countryObj['alpha3'])
             organisationCountry.text = countryObj['name']
